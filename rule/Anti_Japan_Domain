@@ -1,0 +1,24 @@
+# Generated from KitanoSakura
+# REPO: https://github.com/KitanoSakurana/OpenClash_Rules_AntiJapan
+# I haven't thought of how to fully automate the search at the moment
+# Generation time: 2026/04/08 (UTC+8) 1:25 PM
+
+payload:
+  - '+.hanime1.me'
+  - '+.erome.com'
+  - '+.kemono.party'
+  - '+.kemono.su'
+  - '+.nhentai.net'
+  - '+.hitomi.la'
+  - '+.binance.com'
+  - '+.okx.com'
+  - '+.bybit.com'
+  - '+.max.com'
+  - '+.hbomax.com'
+  - '+.hulu.com'
+  - '+.e-hentai.org'
+  - '+.exhentai.org'
+  - '+.bluetrafficstream.com'
+  - '+.juicyads.me'
+  - '+.hembed.com'
+  - '+.animeapp.org'
