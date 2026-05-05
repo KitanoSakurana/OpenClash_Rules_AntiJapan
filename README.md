@@ -1,3 +1,3 @@
-# OpenClash_Rules_AntiJapan
+#BakaClashRules
 
-The original intention of this warehouse was to solve the problem of certain websites blocking Japanese nodes. We welcome your help to improve the rules
+The original intention of this repository was to solve the problem of certain websites blocking Japanese nodes and some websites (game servers) having improper rule configurations. We welcome your help in improving the rules
