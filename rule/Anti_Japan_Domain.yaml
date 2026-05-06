@@ -1,27 +1,27 @@
 # Generated from KitanoSakura
 # REPO: https://github.com/KitanoSakurana/BakaClashRules/
 # I haven't thought of how to fully automate the search at the moment
-# Generation time: 2026/04/08 (UTC+8) 1:25 PM
+# Generation time: 2026/05/06 (UTC+8) 11:10 PM
 
 payload:
-  - '+.hanime1.me'
-  - '+.erome.com'
-  - '+.kemono.party'
-  - '+.kemono.su'
-  - '+.nhentai.net'
-  - '+.hitomi.la'
-  - '+.binance.com'
-  - '+.okx.com'
-  - '+.bybit.com'
-  - '+.max.com'
-  - '+.hbomax.com'
-  - '+.hulu.com'
-  - '+.e-hentai.org'
-  - '+.exhentai.org'
-  - '+.bluetrafficstream.com'
-  - '+.juicyads.me'
-  - '+.hembed.com'
-  - '+.animeapp.org'
-  - '+.hanimeone.me'
-  - '+.hanime1.com'
-  - '+.javchu.com'
+  - DOMAIN-SUFFIX,hanime1.me
+  - DOMAIN-SUFFIX,erome.com
+  - DOMAIN-SUFFIX,kemono.party
+  - DOMAIN-SUFFIX,kemono.su
+  - DOMAIN-SUFFIX,nhentai.net
+  - DOMAIN-SUFFIX,hitomi.la
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,max.com
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,hulu.com
+  - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-SUFFIX,exhentai.org
+  - DOMAIN-SUFFIX,bluetrafficstream.com
+  - DOMAIN-SUFFIX,juicyads.me
+  - DOMAIN-SUFFIX,hembed.com
+  - DOMAIN-SUFFIX,animeapp.org
+  - DOMAIN-SUFFIX,hanimeone.me
+  - DOMAIN-SUFFIX,hanime1.com
+  - DOMAIN-SUFFIX,javchu.com
