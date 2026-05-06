@@ -1,1 +1,8 @@
+# Generated from KitanoSakura
+# REPO: https://github.com/KitanoSakurana/BakaClashRules/
+# I haven't thought of how to fully automate the search at the moment
+# Generation time: 2026/05/06 (UTC+8) 9:48 PM
 
+payload:
+  - PROCESS-NAME,com.levelinfinite.sgameGlobal
+  - PROCESS-NAME,com.levelinfinite.sgameGlobal.midaspay
